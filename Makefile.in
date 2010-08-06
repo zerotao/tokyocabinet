@@ -10,6 +10,7 @@
 # Generic settings
 SHELL = @SHELL@
 
+VPATH=@srcdir@
 # Package information
 PACKAGE = @PACKAGE_NAME@
 VERSION = @PACKAGE_VERSION@
